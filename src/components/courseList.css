@@ -1,0 +1,9 @@
+
+.courselist {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 14rem);
+  }
+.course-item {
+    border: 1px solid black;
+    padding: 1rem;
+  }
